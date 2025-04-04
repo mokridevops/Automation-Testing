@@ -36,7 +36,7 @@ Additional Features of Playwright:
    Capture all the information to investigate the test failure.
 
 
-JavaScript ---> Dynamically typed language
+**JavaScript ---> Dynamically typed language** 
 
 let age = 30
 let name = "John"
@@ -44,7 +44,7 @@ let name = "John"
 age = "thirty"
 
 
-TypeScript ---> Statically typed language
+**TypeScript ---> Statically typed language**
 
 let age:number = 30
 let name:string = "John"
