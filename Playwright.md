@@ -1,4 +1,4 @@
-#Playwright
+ # Playwright
 
 Playwright - Open-source tool by Microsoft for automating web browser testing, end-to-end testing.
 Playwright also offers dedicated API for testing and interacting with Web API's.
