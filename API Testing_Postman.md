@@ -30,6 +30,7 @@ Install Postman
      Request --> API --> Response
 
 4 types of HTTP requests:
+
      Get --- retrieve the resource from database
      Put --- create resource on database
      Post  --- update exisiting resource on database
