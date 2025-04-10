@@ -43,5 +43,22 @@ Install Postman
 
 
 
+two types of parameters:
+
+1) Path Parameter
+2) Query Parameter
+
+https://reqres.in/api/users?page=2  -----> query parameter
+
+https://reqres.in/ ----> host
+/api/users/ ----> path
+? ----> represents a filter
+page=2  ----> is filter
+
+this is query parameter
+
+------------------
+https://reqres.in/api/users/2  ----> path parameter
+
 
      
