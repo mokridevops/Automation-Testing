@@ -139,6 +139,18 @@ these are called HTTP Status codes
 
 
 
+![image](https://github.com/user-attachments/assets/0c07cc6a-e2ff-4c12-9708-d198718a74d4)
+
+![image](https://github.com/user-attachments/assets/de0040e3-3f96-42c0-9191-afb4b2585675)
+
+![image](https://github.com/user-attachments/assets/4570bea1-583f-430d-899e-da2bf4299fc9)
+
+
+
+
+
+
+
 
 
 
