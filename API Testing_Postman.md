@@ -63,5 +63,21 @@ this is query parameter
 ------------------
 https://reqres.in/api/users/2  ----> path parameter
 
+![image](https://github.com/user-attachments/assets/9d582471-4dce-40d7-b27d-97961dc39733)
+
+
+
+
+![image](https://github.com/user-attachments/assets/df986f9a-540e-433e-a082-6eddae7be72b)
+
+
+     clicking on Send
+
+     ![image](https://github.com/user-attachments/assets/3a00d118-10b6-4945-9012-d413751955e2)
+   
+
+     
+
+   ![image](https://github.com/user-attachments/assets/2d0e9b0e-1061-4818-bd21-6eaa184bbc37)
 
      
