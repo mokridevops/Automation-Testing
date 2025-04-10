@@ -103,6 +103,38 @@ URI or URL - both are same: Uniform resource Identifier or Uniform resource Iden
 
 
 
+![image](https://github.com/user-attachments/assets/89136e31-314a-4dad-8b8e-b4abf070e2af)
+
+
+
+![image](https://github.com/user-attachments/assets/5e581657-b3fc-4d0b-acb7-3fd41d523d26)
+
+Request PayLoad and Response PayLoad
+
+4 types of http request -> get, post, put, delete
+
+
+HTTP Status Codes: referring the status code, which is part of response.
+
+1 series
+2 series
+3 series
+4 series
+5 series
+
+these are called HTTP Status codes
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/7013f3d6-1ea0-4403-8806-e1dc7a5ebc3d)
+
+
+![image](https://github.com/user-attachments/assets/29f03409-6422-492b-81d5-43ba99453b46)
 
 
 
