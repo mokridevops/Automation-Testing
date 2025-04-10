@@ -1,1 +1,39 @@
-API
+# API Testing using Postman
+
+
+Postman - manual testing of postman
+
+basics of Java script - postman by default supports JavaScript language - in the response.
+
+little bit of automation is also involved in postman, we can run some tests multiple number of times.
+
+Postman - available in two flavors:
+1) Desktop
+2) Web
+
+
+Everything of our activities in Postman will be saved in Cloud
+
+we can still store our collections and data in local desktop too!  for both above - we have to create an Account!
+
+
+
+Install Postman
+
+1) Workspace - create, rename, delete - a place where we can store 
+2) Collection - create a collection: folder - where a group of requests are stored
+   
+   create, rename, delete - run the collection
+
+   - we can create any number of collections
+
+     Request --> API --> Response
+
+4 types of HTTP requests:
+     Get --- retrieve the resource from database
+     Put --- create resource on database
+     Post  --- update exisiting resource on database
+     Delete --- delete existing resource on database
+
+
+     
