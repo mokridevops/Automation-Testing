@@ -53,7 +53,9 @@ https://reqres.in/api/users?page=2  -----> query parameter
 https://reqres.in/ ----> host
 
 /api/users/ ----> path
+
 ? ----> represents a filter
+
 page=2  ----> is filter
 
 this is query parameter
