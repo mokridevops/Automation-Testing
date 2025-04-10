@@ -72,4 +72,5 @@ https://reqres.in/api/users/2  ----> path parameter
 
 
 
-     
+     ![image](https://github.com/user-attachments/assets/d7287504-b123-4f61-9e8f-f442517f2dac)
+
