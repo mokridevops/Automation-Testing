@@ -55,3 +55,19 @@ so API is acting as an interface for communication of two microservices
 
 ![image](https://github.com/user-attachments/assets/72532247-cf67-49e1-8a3d-5e9a98978b65)
 
+
+
+SOAP API - only xml format
+Rest API - many formats
+
+
+# Rest API HTTP Methods:
+
+Request Message -> Application Program Interface (API) -> Response Message
+
+HTTP Request (get, post, put, patch, delete)
+
+Validations Performed (Response Status COde, Data, etc.)
+
+
+
