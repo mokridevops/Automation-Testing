@@ -70,4 +70,29 @@ HTTP Request (get, post, put, patch, delete)
 Validations Performed (Response Status Code, Data, etc.)
 
 
+Different types of API requests : HTTP Requests: get, post, put, patch, delete
+
+get - retrieve from server 
+post - sending /create something in server
+put - update something in server
+patch - updating the existing data in server
+delete - delete the existing data in server
+
+these are similar to CRUD - create, udpate, read and delete, but on http are : get, post, put,patch, delete
+
+
+
+
+![image](https://github.com/user-attachments/assets/30dcb7a2-4f31-4304-951f-3822cc21005a)
+
+http : -> hyper text transfer protocol
+
+https: s -> security
+
+http -> data is not secured
+https -> data is secured
+
+
+
+
 
