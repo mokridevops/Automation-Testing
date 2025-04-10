@@ -48,6 +48,8 @@ so API is acting as an interface for communication of two microservices
 
 ![image](https://github.com/user-attachments/assets/09038f19-6391-4f20-82b4-e0b5d5635fba)
 
+![image](https://github.com/user-attachments/assets/1dc5ac75-16e4-43a0-977b-c6a82dd8fef0)
+
 
 
 
