@@ -67,7 +67,7 @@ Request Message -> Application Program Interface (API) -> Response Message
 
 HTTP Request (get, post, put, patch, delete)
 
-Validations Performed (Response Status COde, Data, etc.)
+Validations Performed (Response Status Code, Data, etc.)
 
 
 
