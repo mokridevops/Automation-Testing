@@ -1,4 +1,4 @@
-#API Testing
+# API Testing
 
 Application Programming Interface
 
@@ -12,7 +12,7 @@ Application Programming Interface
 ![image](https://github.com/user-attachments/assets/7955f159-46e9-427e-a978-35c3ef9eebc1)
 
 
-#Types of API: 4 types:
+# Types of API: 4 types:
 
 1) Open APIs (PUblic APIs): Open to public - everyone can use - ex: google maps API
 2) Internal APIs (Private APIs): within company or organization
