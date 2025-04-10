@@ -75,10 +75,19 @@ https://reqres.in/api/users/2  ----> path parameter
      
      
 
-![image](https://github.com/user-attachments/assets/731ead53-2670-467b-ad2c-ef9a23f71630)
+![image](https://github.com/user-attachments/assets/731ead53-2670-467b-ad2c-ef9a23f71630)s
 
 
 
 
 ![image](https://github.com/user-attachments/assets/8f948cca-60c5-44e0-a223-77c0b260d8d9)
+
+If you want to use these authentications, you have to pass these authentications along with the URL
+
+![image](https://github.com/user-attachments/assets/51c73b8d-fc09-4aac-89c2-94071351ef30)
+
+
+![image](https://github.com/user-attachments/assets/ac3fa002-823c-47da-ae34-dd0b2546b68b)
+
+
 
