@@ -23,3 +23,32 @@ Application Programming Interface
 ![image](https://github.com/user-attachments/assets/524464a4-f905-4333-80ae-c3237c0205f3)
 
 
+
+# API vs WebService vs MicroService
+
+API not available on online - is an API
+
+API available on online - is a WebService
+
+So, all WebServices are API's, but not all WebServices are not API's
+
+
+
+Microservice: a small component in an application
+
+If we have multiple microservices and they communicating with each other - using APIs
+
+so API is acting as an interface for communication of two microservices
+
+![image](https://github.com/user-attachments/assets/88b02bda-75ea-4e0a-94cd-542a41069c49)
+
+![image](https://github.com/user-attachments/assets/ec77c759-c367-41b3-8f8a-94f6982425b0)
+
+
+
+![image](https://github.com/user-attachments/assets/09038f19-6391-4f20-82b4-e0b5d5635fba)
+
+
+
+
+
