@@ -90,7 +90,21 @@ http : -> hyper text transfer protocol
 https: s -> security
 
 http -> data is not secured
-https -> data is secured
+https -> data is secured - password is encrypted
+
+![image](https://github.com/user-attachments/assets/12654522-d554-4df1-94fe-8c680687bc8e)
+
+
+![image](https://github.com/user-attachments/assets/44816d65-4a01-416d-a013-2aa4d25fdd61)
+
+
+URI or URL - both are same: Uniform resource Identifier or Uniform resource Identifier
+
+
+
+
+
+
 
 
 
