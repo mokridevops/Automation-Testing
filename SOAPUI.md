@@ -21,3 +21,12 @@ example WSDL file: http://www.dneonline.com/calculator.asmx?wsdl
 
 
 ![image](https://github.com/user-attachments/assets/c9d41a8a-a42c-4987-94ac-2a8250993cfa)
+
+![image](https://github.com/user-attachments/assets/4e4d3eea-6071-4597-a5e9-dd8abdeae2de)
+
+once the import is done, it is importing all the webservices fromt he wsdl document, and it has created the new SOAP project.
+
+![image](https://github.com/user-attachments/assets/d1a3d734-5641-4eb5-8c19-3e368dd24eb1)
+
+
+
